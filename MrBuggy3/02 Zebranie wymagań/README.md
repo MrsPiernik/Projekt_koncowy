@@ -1,4 +1,4 @@
-# | Nagłówek
+ID | Nagłówek
 ---|---
 1 | dane tabelaryczne
 2 | dane tabelaryczne
