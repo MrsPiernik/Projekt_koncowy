@@ -2,7 +2,7 @@ ID;Title;Preconditions;Priority;Steps (Step);Steps (Expected Result)
 C1;Correct registration;The app is opened;High;Click 'Rejestracja'.;
 ;;;;Enter a username. Use no more than 100 characters.;
 ;;;;Enter a correct email address.;
-;;;;Enter a password that consists of at least 4 characters, at least one lowercase letter, one uppercase letter, one digit 0-9 and one of the following special characters: !@#$%^&amp*;
+;;;;Enter a password that consists of at least 4 characters at least one lowercase letter one uppercase letter one digit 0-9 and one of the following special characters: !@#$%^&amp*;
 ;;;;Tick the checkbox.;
 ;;;;Click 'Rejestruj';Creates a new account, a confirmation e-mail is sent to the given address and the user is informed about these actions.
 C2;Correct 'Regulamin' link action;The app is opened and the option 'Rejestracja' is chosen.;Low;Click the link 'Regulamin'';Your browser opens up http://3.mrbuggy.pl/index/terms_of_use.
